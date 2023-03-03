@@ -11,3 +11,5 @@ https://challengedata.ens.fr/participants/challenges/68/
 
 My rank on the public leaderboard is 47th out of the 167 participants. You can find leaderboard here: https://challengedata.ens.fr/participants/challenges/68/ranking/public
 
+Username: VictorHoffmann
+
